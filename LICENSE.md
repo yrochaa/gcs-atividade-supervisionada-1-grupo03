@@ -1,2 +1,2 @@
 
-Copyright (C) 2017 Yan Rocha
+Copyright (C) 2017 Yan Rocha and Wilan Carlos
