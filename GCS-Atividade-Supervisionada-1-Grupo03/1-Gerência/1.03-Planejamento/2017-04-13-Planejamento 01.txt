@@ -1,4 +1,9 @@
-Nome artefato: 2017-04-13-Planejamento 01
+Nome artefato: 2017-04-13-Ata Reunião 01.txt
 Nome do autor da alteração: Guilherme Almeida Silva
 Data da alteração: 13/04/2017
-Hora da alteração: 17:20:02
+Hora da alteração: 17:18:54
+
+Nome artefato: 2017-04-13-Ata Reunião 01.txt
+Nome do(a) autor(a) da alteração: Wilan Carlos da Silva
+Data da alteração: 13/04/2017
+Hora da alteração: 18:25:00
