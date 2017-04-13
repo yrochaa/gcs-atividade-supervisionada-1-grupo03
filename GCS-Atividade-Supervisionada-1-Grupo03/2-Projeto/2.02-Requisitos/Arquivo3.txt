@@ -1,0 +1,7 @@
+Nome artefato: Arquivo2.txt
+Nome do(a) autor(a) da alteração: Wilan Carlos da Silva
+Data da alteração: 13/04/2017
+Hora da alteração: 18:37:00
+
+Documento criado no ramo2
+Documento criado no trunk
